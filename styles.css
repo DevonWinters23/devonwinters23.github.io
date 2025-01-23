@@ -11,6 +11,9 @@ h2 {
     color: blueviolet;
     text-align: center;
 }
+p {
+    color:ghostwhite;
+}
 table {
     border: 2px solid papayawhip;
     width: 650px;
